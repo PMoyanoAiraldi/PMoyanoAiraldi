@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Paula!
 
-🎯 **Analista de Sistemas Administrativos** con más de 7 años de experiencia en tareas administrativas. Me destaco por mi capacidad para trabajar en equipo, mi comunicación efectiva y un enfoque siempre respetuoso en cada interacción.
+🎯 **Analista de Sistemas Administrativos** con más de 8 años de experiencia en tareas administrativas. Me destaco por mi capacidad para trabajar en equipo, mi comunicación efectiva y un enfoque siempre respetuoso en cada interacción.
 
 💻 Actualmente, estoy iniciando mi carrera como **Desarrolladora Full Stack**, explorando y creciendo en el apasionante mundo de la programación. Trabajo con tecnologías modernas como:
 
